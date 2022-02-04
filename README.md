@@ -13,6 +13,12 @@ It's more for my personal use than anything else but feel free to use it as you 
 
 ### 🛠 Start Developing
 
+With [GitHub CLI](https://cli.github.com) on a parent folder
+
+```bash
+gh repo clone nicoandrade/starter new-name
+```
+
 Install all dependencies with this command
 
 ```bash
