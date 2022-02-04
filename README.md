@@ -16,7 +16,7 @@ It's more for my personal use than anything else but feel free to use it as you 
 With [GitHub CLI](https://cli.github.com) on a parent folder
 
 ```bash
-gh repo clone nicoandrade/starter new-name
+gh repo clone nicoandrade/starter new-name && cd new-name && rm -rf .git
 ```
 
 Install all dependencies with this command
